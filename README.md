@@ -1,4 +1,4 @@
 # nicsinner
 <html>
-  <h1> Meu prineiro arquivo HTML </h1>
+  <h1> Meu primeiro arquivo HTML </h1>
   </html>
